@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミレニアの水槽",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-11T16:07:22.734718Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミレニアの水槽",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_ミレニアの水槽_Empty_old_City.txt"
+    }
+  ]
+}
