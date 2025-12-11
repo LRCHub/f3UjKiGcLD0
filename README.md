@@ -1,0 +1,51 @@
+# Empty old City – ミレニアの水槽
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+誰かに呼ばれた
+頭が揺れるほどの低音で
+はるか昔に愛してた
+あなたに似てた
+湖の畔には届いていたの
+恐ろしくも悲しそうな声が
+届いていたの
+絵空事には思えなかったわ
+だってあなたは昔から
+私を愛している
+外の世界は残酷だから
+もう少しだけ泡のように
+ただ漂って時間を止めていたい
+The bubbles are gathering the stars
+Underwater we're surrounded by the stars
+Now that I think about it
+When I sank here before
+I was feeling nostalgic
+It's a millennia magic?
+Or just I've come back where I should be?
+幾つもの年月を数えていたの？
+誰にも届かない声をあげて
+私の名を呼んでいたの？
+おとぎ話の答え合わせを
+そしてあなたが描いていた
+エピローグを
+不思議な夜の明ける頃には
+もう少しだけ暖かくて
+単調に繰り返す時間を望んでいる
+不変を望んでいる
+The dead symphony, dead symphony
+The lost ivory, lost ivory
+今思い出したの
+It's not sympathy, not sympathy
+But my empathy, your empathy
+They call it fantasy, call it fantasy
+But I know the reality
+絵空事には思えなかったわ
+だってあなたは昔から
+私を愛している
+外の世界は残酷だから
+もう少しだけ泡のように
+ただ漂って時間を止めていたい
+The bubbles are gathering the stars
+Underwater we're surrounded by the stars
+```
